@@ -1,2 +1,2 @@
 # practice-shell
-practice-shell
+Practicing Shell script..
